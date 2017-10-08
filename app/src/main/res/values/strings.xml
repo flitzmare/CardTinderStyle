@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodTinder</string>
+    <string name="zomato_api_key">b9fce15fd61ddee7766ab11f00d957ed</string>
+</resources>
